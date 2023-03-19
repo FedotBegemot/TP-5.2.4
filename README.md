@@ -3,7 +3,7 @@
 
 Выполняют студенты 5.2:
 
-1..[Свиридов Фёдор] (https://github.com/FedotBegemot)
+1..[Свиридов Фёдор](https://github.com/FedotBegemot)
 
 2.Молдавский Илья (https://github.com/iIlyaM)
 
