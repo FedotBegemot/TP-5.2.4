@@ -20,4 +20,4 @@
 
 [Trello](https://trello.com/invite/b/Q9oCXbbY/ATTI6172564b1058c47197abc0bfe86ce7f9B946A095/составление-расписания)
 
-[Figma](https://trello.com/invite/52415/ATTI97841597ce8e1195a3c89f8b64a2556eB719F754)
+[Figma](https://www.figma.com/file/m2anmNcEu5ZxfiYcXzP4Pk/UnivTimeTable?node-id=0-1&t=TBJTWewhOpbanF8w-0)
