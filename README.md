@@ -16,8 +16,8 @@
 2) Заявки от преподавателей по их свободному времени. То есть у преподавателя есть доступные часы для проведения занятий, которые будут доступны для постановки в расписание, те часы, когда преподаватель не может провести занятие, автоматически будут подсвечены в расписании как недоступные; 
 3) Импорт расписания в таблицу (отдельно для факультета, курса, группы, подгруппы)
 
-[Miro](https://miro.com/app/board/uXjVPhSKaX0=/)
+[Miro](https://miro.com/app/board/uXjVPhSKaX0=/?share_link_id=911852827355)
 
 [Trello](https://trello.com/b/Q9oCXbbY/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F)
 
-[Figma](https://www.figma.com/files/team/1215690375709102342/TP-5.2.4-team?fuid=1096126370235053704)
+[Figma](https://www.figma.com/file/m2anmNcEu5ZxfiYcXzP4Pk/Untitled?node-id=1%3A3&t=RAkllaVlzEv1W7Lj-1)
