@@ -24,4 +24,4 @@
 
 [Figma](https://www.figma.com/file/m2anmNcEu5ZxfiYcXzP4Pk/UnivTimeTable?node-id=0-1&t=TBJTWewhOpbanF8w-0)
 
-[Видеопрезентация]()
+[Видеопрезентация](https://youtu.be/xL2jRJXNqe0)
