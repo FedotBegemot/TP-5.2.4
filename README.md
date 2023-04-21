@@ -20,7 +20,7 @@
 
 [Miro](https://miro.com/app/board/uXjVPhSKaX0=/?share_link_id=911852827355)
 
-[Trello](https://trello.com/invite/b/Q9oCXbbY/ATTI6172564b1058c47197abc0bfe86ce7f9B946A095/составление-расписания)
+[Trello](https://trello.com/b/Q9oCXbbY/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F)
 
 [Figma](https://www.figma.com/file/m2anmNcEu5ZxfiYcXzP4Pk/UnivTimeTable?node-id=0-1&t=TBJTWewhOpbanF8w-0)
 
