@@ -1,6 +1,8 @@
 # TP-5.2.4
 Проект "Составление расписания"
 
+- #### [Сервер](https://github.com/tukitoki/UnivTimeTable-backend)
+- #### [Клиент](https://github.com/iIlyaM/UnivTimeTable)
 Выполняют студенты 5.2:
 
 1.[Свиридов Фёдор](https://github.com/FedotBegemot)
