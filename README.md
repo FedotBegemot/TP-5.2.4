@@ -1,5 +1,5 @@
 # TP-5.2.4
-## Проект "Составление расписания"
+## Проект "UnivTimetable"
 ### Ссылки на репозитории:
 - **[Сервер](https://github.com/tukitoki/UnivTimeTable-backend)**
 - **[Клиент](https://github.com/iIlyaM/UnivTimeTable)**
