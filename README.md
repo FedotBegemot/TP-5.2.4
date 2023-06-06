@@ -25,7 +25,7 @@
 - **[Диаграммы](https://github.com/FedotBegemot/TP-5.2.4/tree/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)**
 - **[Документация](https://github.com/FedotBegemot/TP-5.2.4/tree/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)**
 - **[Курсовая работа](https://github.com/FedotBegemot/TP-5.2.4/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pd)**
-- **Презентация проекта**
+- **[Презентация проекта](https://github.com/FedotBegemot/TP-5.2.4/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20UnivTimetable.pptx)**
 - **[Техническое задание](https://github.com/FedotBegemot/TP-5.2.4/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%97.pdf)**
 - **[Видео с разверткой приложения](https://drive.google.com/file/d/1Z8qc6C6ziUVA42zjikVTsbs0mi8ats1-/view?usp=drive_link)**
 - **[Видео с обзором серверной части](https://drive.google.com/file/d/1h2wmfHpolkiLBAg5v1LRQExjqPSsw8qt/view?usp=drive_link)**
