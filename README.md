@@ -38,7 +38,7 @@
 - **[Видео с обзором серверной части](https://drive.google.com/file/d/1h2wmfHpolkiLBAg5v1LRQExjqPSsw8qt/view?usp=drive_link)**
 - **[Видео с обзором клиентской части](https://disk.yandex.ru/i/xnwOvpxXA3erlQ)**- **[Видео с обзором работы приложения](https://youtu.be/2nDUpibMsAQ)**
 - **[Видеопрезентация ко 2-ой аттестации](https://youtu.be/xL2jRJXNqe0)**
------
+------
 ### Сервисы
 - **[Miro](https://miro.com/app/board/uXjVPhSKaX0=/?share_link_id=911852827355)**
 - **[Trello](https://trello.com/b/Q9oCXbbY/%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F)**
