@@ -36,7 +36,8 @@
 ### Видео
 - **[Видео с разверткой приложения](https://drive.google.com/file/d/1Z8qc6C6ziUVA42zjikVTsbs0mi8ats1-/view?usp=drive_link)**
 - **[Видео с обзором серверной части](https://drive.google.com/file/d/1h2wmfHpolkiLBAg5v1LRQExjqPSsw8qt/view?usp=drive_link)**
-- **[Видео с обзором клиентской части](https://disk.yandex.ru/i/xnwOvpxXA3erlQ)**- **[Видео с обзором работы приложения](https://youtu.be/2nDUpibMsAQ)**
+- **[Видео с обзором клиентской части](https://disk.yandex.ru/i/xnwOvpxXA3erlQ)**
+- **[Видео с обзором работы приложения](https://youtu.be/2nDUpibMsAQ)**
 - **[Видеопрезентация ко 2-ой аттестации](https://youtu.be/xL2jRJXNqe0)**
 ------
 ### Сервисы
