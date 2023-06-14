@@ -1,5 +1,7 @@
 # TP-5.2.4
 ## Проект "UnivTimetable"
+## Ссылка на apk для скачивания
+[apk](https://github.com/FedotBegemot/TP-5.2.4/blob/main/app-debug.apk)
 ### Ссылки на репозитории:
 - **[Сервер](https://github.com/tukitoki/UnivTimeTable-backend)**
 - **[Клиент](https://github.com/iIlyaM/UnivTimeTable)**
