@@ -57,11 +57,11 @@
 - Почта: tokichiihere@gmail.com
 - Пароль: admin
 
-**Первый преподаватель**
+**Преподаватель-составитель**
 - Почта: imoldavskiy@yandex.ru
 - Пароль: lecturer
 
-**Второй преподаватель**
+**Преподаватель**
 - Почта: fedorsviridov@gmail.com
 - Пароль: lecturer
 
