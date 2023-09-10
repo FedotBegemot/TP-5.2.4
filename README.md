@@ -34,8 +34,8 @@
 - **[Сопроводительное письмо](https://github.com/FedotBegemot/TP-5.2.4/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)**
 ----
 ### Видео
-- **[Видео с разверткой приложения](https://drive.google.com/file/d/1Z8qc6C6ziUVA42zjikVTsbs0mi8ats1-/view?usp=drive_link)**
-- **[Видео с обзором серверной части](https://drive.google.com/file/d/1h2wmfHpolkiLBAg5v1LRQExjqPSsw8qt/view?usp=drive_link)**
+- **[Видео с разверткой приложения](https://drive.google.com/file/d/1rNxTRaGGJJ9GSQZN18S5ubT-92ooTjml/view?usp=sharing)**
+- **[Видео с обзором серверной части](https://drive.google.com/file/d/1inpzktzGy71LYXlpLfpjdgTwy7ueqlbL/view?usp=sharing)**
 - **[Видео с обзором клиентской части](https://disk.yandex.ru/i/xnwOvpxXA3erlQ)**
 - **[Видео с обзором работы приложения](https://youtu.be/2nDUpibMsAQ)**
 - **[Видеопрезентация проекта](https://youtu.be/Ukrr0Sgoo5k)**
